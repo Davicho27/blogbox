@@ -40,7 +40,6 @@ h2{
 h1::first-letter{
     text-align: center;
     font-size: 60px;
-    color:rgb(142, 166, 231);
 }
 p{
     padding-top: 10px;
